@@ -1,0 +1,133 @@
+/*@import 'https://fonts.googleapis.com/css?family=Taviraj|Trirong|Ubuntu+Condensed';*/
+
+
+
+.row {
+  height: 100px;
+  margin-left:-4.5%;
+  margin-bottom:5%;
+  text-align: center;
+
+}
+.well{
+    margin-top:3%;
+    width:60%;
+    margin:auto;
+
+}
+/*.container{
+    text-align: center;
+  
+}*/
+
+body{  
+    font-family: 'Libre Franklin', sans-serif;
+}
+header {background-color: #e83400;
+}
+nav{
+    display: inline;
+}
+ 
+ #navigation-menu li{
+
+        text-align: justify;
+        padding: 10px;
+        display: inline;
+        font-family: Tavira;
+    }
+    .navigation-menu-container {
+
+        padding: 10px;
+        border: 0;
+        font-size: 12px;
+        font-weight: normal;
+        display: inline-block;
+    }
+h1{
+    width: 20%;
+    display: inline;
+}
+
+
+footer{
+    background-color:#e83400; 
+    text-align: center;
+    font-family: Trirong;
+}
+    
+.firstparagraph{
+        float: left;
+        display: block;
+        margin: 15px 2% 0 2%;
+        width: 25%;
+        text-align: justify;
+        }
+
+.lastparagraph{
+
+    float: right;
+        display: block;
+        margin: 15px 2% 0 2%;
+        width: 25%;
+        text-align: justify;
+        
+    }
+
+
+.button {
+    
+    background-size: 100%;
+    cursor:pointer;
+    width: 100px;
+    height: 100px;
+    border: none;
+    color: #e83400;
+    /*margin: 0 auto;*/
+    margin-bottom:5px;
+    text-align:center;
+    font-family: 'Libre Franklin', sans-serif; 
+    color:silver;
+}
+
+}
+
+.col-md-2{
+    text-align: center;
+    display:inline-block;
+}
+
+
+
+
+.button:active  /* use Dot here */
+{   
+    background:url(images/black2.jpg) no-repeat;
+}
+
+#res h3{
+    margin-top:0;
+}
+.navbar-header{
+    width:100%;
+    margin:auto;
+    text-align:center;
+
+}
+a.navbar-brand{
+    font-size: 4em;
+}
+.container-fluid{
+    text-align:center;
+    margin-left:35%;
+}
+
+footer{
+  margin-top:10%;
+}
+
+    
+
+
+
+
